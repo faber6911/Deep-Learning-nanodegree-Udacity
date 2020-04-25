@@ -13,7 +13,7 @@
 <h3>Neural Networks</h3>
 <p align="justify">Learn neural network basics, and build your first network with Python and NumPy. Use the modern deep learning framework PyTorch to build multi-layer neural networks, and analyze real data.
 <ul>
-  <li>Project: <a href="">Predicting Bike Sharing Patterns</a></li>
+  <li>Project: <a href="https://github.com/faber6911/DeepLearning-nanodegree-Udacity/tree/master/project-bikesharing">Predicting Bike Sharing Patterns</a></li>
 </ul>
 </p>
 <br>
