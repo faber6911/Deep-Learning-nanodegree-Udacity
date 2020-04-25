@@ -1,3 +1,4 @@
+<br>
 <h1 align="center"><a href="https://www.udacity.com/course/deep-learning-nanodegree--nd101">Deep Learning Nanodegree</a></h1>
 <h6 align = "center">provided by</h6>
 <p align="center"><a href="https://www.udacity.com/"><img src="https://raw.githubusercontent.com/faber6911/DeepLearning-nanodegree-Udacity/master/imgs/logo.png" width=10%></a></p>
