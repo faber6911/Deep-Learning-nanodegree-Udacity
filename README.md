@@ -21,7 +21,7 @@
 <h3>Convolutional Neural Networks</h3>
 <p align="justify">Learn how to build convolutional networks and use them to classify images (faces, melanomas, etc.) based on patterns and objects that appear in them. Use these networks to learn data compression and image de-noising.
 <ul>
-  <li>Project: <a href="">Dog-Breed Classifier</a></li>
+  <li>Project: <a href="https://github.com/faber6911/DeepLearning-nanodegree-Udacity/tree/master/2_project-dog-classification">Dog-Breed Classifier</a></li>
 </ul>
 </p>
 <br>
