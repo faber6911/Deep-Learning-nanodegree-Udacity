@@ -13,7 +13,7 @@
 <h3>Neural Networks</h3>
 <p align="justify">Learn neural network basics, and build your first network with Python and NumPy. Use the modern deep learning framework PyTorch to build multi-layer neural networks, and analyze real data.
 <ul>
-  <li>Project: <a href="https://github.com/faber6911/DeepLearning-nanodegree-Udacity/tree/master/project-bikesharing">Predicting Bike Sharing Patterns</a></li>
+  <li>Project: <a href="https://github.com/faber6911/DeepLearning-nanodegree-Udacity/tree/master/1_project-bikesharing">Predicting Bike Sharing Patterns</a></li>
 </ul>
 </p>
 <br>
@@ -29,7 +29,7 @@
 <h3>Recurrent Neural Networks</h3>
 <p align="justify">Build your own recurrent networks and long short-term memory networks with PyTorch; perform sentiment analysis and use recurrent networks to generate new text from TV scripts.
 <ul>
-  <li>Project: <a href="">Generate TV Scripts</a></li>
+  <li>Project: <a href="https://github.com/faber6911/DeepLearning-nanodegree-Udacity/tree/master/3_project-tv-script-generation">Generate TV Scripts</a></li>
 </ul>
 </p>
 <br>
