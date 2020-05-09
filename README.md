@@ -37,7 +37,7 @@
 <h3>Generative Adversarial Networks</h3>
 <p align="justify">Learn to understand and implement a Deep Convolutional GAN (generative adversarial network) to generate realistic images, with Ian Goodfellow, the inventor of GANs, and Jun-Yan Zhu, the creator of CycleGANs.
 <ul>
-  <li>Project: <a href="">Generate Faces</a></li>
+  <li>Project: <a href="https://github.com/faber6911/DeepLearning-nanodegree-Udacity/tree/master/4_project-face-generation">Generate Faces</a></li>
 </ul>
 </p>
 <br>
