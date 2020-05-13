@@ -45,10 +45,10 @@
 <h3>Deploying a Model</h3>
 <p align="justify">Train and deploy your own sentiment analysis model using Amazon's SageMaker. Deployment gives you the ability to use a trained model to analyze new, user input. Build a model, deploy it, and create a gateway for accessing it from a website.
 <ul>
-  <li>Project: <a href="">Deploying a Sentiment Analysis Model</a></li>
+  <li>Project: <a href="https://github.com/faber6911/DeepLearning-nanodegree-Udacity/tree/master/5_sagemaker-deployment">Deploying a Sentiment Analysis Model</a></li>
 </ul>
 </p>
 
-<!---<p align="center">
-<img src="https://raw.githubusercontent.com/faber6911/NLP-nanodegree-Udacity/master/imgs/certificate.PNG">
-</p>--->
+<p align="center">
+<img src="https://raw.githubusercontent.com/faber6911/DeepLearning-nanodegree-Udacity/master/imgs/certificate.PNG">
+</p>
